@@ -1,5 +1,6 @@
 const details = require('./details.json')
 const settings = require('./settings.json')
+const renderSettings = require('./settings')
 
 module.exports = {
     detail: {
@@ -11,6 +12,7 @@ module.exports = {
     },
     settings: {
         title: settings.title,
-        content: settings.settings
+        content: settings.settings,
+        render: renderSettings.render
     }
 };
