@@ -1,0 +1,10 @@
+{
+    "title": "Extension Sample",
+    "settings": [
+        {
+            "type": "button",
+            "label": "Sample Settings",
+            "content": "settings"
+        }
+    ]
+}

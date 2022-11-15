@@ -1,0 +1,7 @@
+{
+    "extid": "extension-sample",
+    "name": "Extension Sample",
+    "author": "leafstudiosDot",
+    "version": "v0.0.0",
+    "description": "Sample extension for Incogine Editor"
+}
